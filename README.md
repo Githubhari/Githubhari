@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Githubhari
 - 👀 I’m interested in ...ML,DL,AI with python.And intrested in creating new models
-- 🌱 I’m currently learning ...DL,Statistics for data science
+- 🌱 I’m currently learning ...Statistics for data science,django
 - 💞️ I’m looking to collaborate on ...Programming lovers
 - 📫 How to reach me ... send me mail
 
